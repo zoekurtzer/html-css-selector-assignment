@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 HEAD
 git add hello_world.txt
 
@@ -38,3 +39,7 @@ After completing the assignment, the following styling properties were applied:
    - Font size: 24px.
    - Font weight: bold.
 >>>>>>> 6b53edbd9bc0ac8c3b5881c0d1bce436fd9116d6
+=======
+# html-css-selector-assignment
+My solution
+>>>>>>> origin/main
